@@ -8,7 +8,7 @@ I'm planning to extend it for more general application purposes.
 
 ```elixir
 defp deps do
-	[{:gealts, github: "0010-IO/gealts"}]
+  [{:gealts, "~> 0.0.1"}]
 end
 ```
 
